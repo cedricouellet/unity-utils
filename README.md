@@ -13,7 +13,7 @@ Unity 2021.2.7f1
 
 ## Credits
 
-Adapted from [Tarodev]():
+Adapted from [Tarodev](https://www.youtube.com/channel/UCAg2py6olXgod71Ix06HnUQ):
 
 - `SoundManager.cs`
 - `Singletons.cs`
