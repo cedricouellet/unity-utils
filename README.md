@@ -1,7 +1,12 @@
-# Shooties
+# Unity Utils
+Utilities for every Unity project!
 
-A simple 3D first person shooter.
+## Unity Version
+Unity 2021.2.7f1
 
-## Stack
-- Unity 2021.2.7f1
-- 3D URP template
+## Included
+- Axis: Constants for reading Input without having to use strings each time
+- Helpers: Performance based caching, as well as useful utilities
+- Singletons: 3 different singleton-inspired classes
+- SoundManager: A reusable sound manager
+- LevelManager: A reusable level loader
